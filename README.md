@@ -13,7 +13,7 @@ Hello! I'm Adiya Kumar, a passionate college student learning **Python. I'm work
 ---
 ## Projects
 
-### [1. Calc_Project](https://github.com/adi6raj/Calculator.git)
+### [1. Calculator](https://github.com/adi6raj/Calculator.git)
 A Python project that integrates a GUI calculator with a personal diary app, built using Tkinter.
 
 ### [2.To-Do-List](https://github.com/adi6raj/To-Do-List.git)
