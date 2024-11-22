@@ -3,7 +3,6 @@ Python | Tech Enthusiast | Open Source
 
 ## Navigation
 - [About](#about)
-- [Projects](#projects)
 - [Contact](#contact)
 ---
 
