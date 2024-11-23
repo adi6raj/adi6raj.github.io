@@ -29,4 +29,7 @@ A digital diary that lets you record your thoughts, feelings, and experiences. I
 - **LinkedIn🔗**: [LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-b359b3257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Instagram📷**: [Instagram profile](https://instagram.com/uknow__aman)
 - **Twitter🕊️**: [Twitter profile](https://twitter.com/adit_yaa1)
+
+
+   © 2024 **Aditya Kumar**. All Rights Reserved.
   
