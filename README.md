@@ -2,7 +2,6 @@
 **Python | Tech Enthusiast | Open Source Contributor**  
 
 ## Navigation🧭
-- [Feel free😊 to reach out if you'd like](https://adi6raj.github.io/circular-queue-intro/)
 - [Contact](#contact)
 ---
 
