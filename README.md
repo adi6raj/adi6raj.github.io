@@ -7,7 +7,7 @@
 <a href="https://discord.gg/ignissol"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/adit_yaa1" ><img src="https://img.shields.io/twitter/follow/adityakumar.svg?style=social" /> </a></div>
               
-                                         <i>A curated list of awesome Python🐍 Projects</i>
+                                         A curated list of awesome Python🐍 Projects
 
 ## Aditya Kumar
 **Python🐍 | Tech Enthusiast🧑‍💻 | Open Source Contributor🛂**  
