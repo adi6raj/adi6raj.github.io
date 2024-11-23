@@ -1,4 +1,4 @@
-<h1 align="center">Awesome GitHub Profile README</h1>
+<h1 align="center">Awesome Python Projects </h1>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/ignissol"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/adit_yaa1" ><img src="https://img.shields.io/twitter/follow/adityakumar.svg?style=social" /> </a></div>
-<i>A curated list of awesome Python🐍 Projects</i>
+              
+                   <i>A curated list of awesome Python🐍 Projects</i>
 
 ## Aditya Kumar
 **Python🐍 | Tech Enthusiast🧑‍💻 | Open Source Contributor🛂**  
