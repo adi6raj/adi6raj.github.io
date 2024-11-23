@@ -31,5 +31,5 @@ A digital diary that lets you record your thoughts, feelings, and experiences. I
 - **Twitter🕊️**: [Twitter profile](https://twitter.com/adit_yaa1)
 
 
-   © 2024 **Aditya Kumar**. All Rights Reserved.
+                                       © 2024 **Aditya Kumar**. All Rights Reserved.
   
