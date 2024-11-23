@@ -7,7 +7,9 @@
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 <a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a></div>
+<i>A curated list of awesome Github Profile READMEs</i>
 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
 ## Aditya Kumar
 **Python🐍 | Tech Enthusiast🧑‍💻 | Open Source Contributor🛂**  
 
@@ -39,6 +41,9 @@ A digital diary that lets you record your thoughts, feelings, and experiences. I
 - **Instagram📷**: [Instagram profile](https://instagram.com/uknow__aman)
 - **Twitter🕊️**: [Twitter profile](https://twitter.com/adit_yaa1)
 
+## License
 
-                                       © 2024 Aditya Kumar. All Rights Reserved.
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+                                              
+                                              © 2024 Aditya Kumar. All Rights Reserved.
   
