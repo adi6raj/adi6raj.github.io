@@ -1,5 +1,5 @@
 ## Aditya Kumar
-Python 🐍| Tech Enthusiast | Open Source
+**Python 🐍 | Tech Enthusiast | Open Source Contributor**  
 
 ## Navigation🧭
 - [About](#about)
