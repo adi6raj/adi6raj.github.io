@@ -1,5 +1,5 @@
 ## Aditya Kumar
-**![Python 🐍] | Tech Enthusiast | Open Source Contributor**  
+![Python 🐍](https://img.shields.io/badge/Atul%20Kumar-Python%20Developer-blue) | ![Tech] Enthusiast(https://img.shields.io/badge/Atul%20Kumar-Python%20Developer-red) | Open Source Contributor 
 
 ## Navigation🧭
 - [About](#about)
